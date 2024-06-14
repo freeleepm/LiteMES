@@ -20,7 +20,6 @@
 
 ![img](https://img-blog.csdnimg.cn/img_convert/cce69a9c62da71d447a79776c322af5b.png)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
 
 LiteMES，一款专为广大中小型企业量身打造的生产制造全链路执行系统，以其卓越的性价比和低投入成本，成为市场上备受青睐的选择。系统基于行业标准开源项目开发，融合了企业现实业务需求，旨在提供一套全面、高效且易于使用的生产管理工具，同时我们也支持物联网设备的接入，如监控摄像、火灾报警等
 
@@ -32,7 +31,6 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 ![img](https://img-blog.csdnimg.cn/img_convert/0229403abc9a474abad24be37128121a.png)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
 
 ## 我们的优势是什么？
 
@@ -119,7 +117,6 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 ├─ ktg-quartz           定时任务模块
 ```
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
 
 ### 前端
 
@@ -170,9 +167,6 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
   └─views							              // 页面组件
 ```
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
-
-
 
 ## 项目效果
 
@@ -181,10 +175,8 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 > 支持多租户的方式使用，标准的SaaS模式，高性价比，免维护。
 
 
-
 ![img](https://img-blog.csdnimg.cn/img_convert/3aa22b6e9284d889d195c0014a4125a6.png)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
 
 ### 组织管理
 
@@ -196,7 +188,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 ![2024-06-01T21:28:08-urir.png](https://img-blog.csdnimg.cn/img_convert/f357b9ff0491fe51f43c3838eee3d226.png)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
+
 
 #### 角色管理
 
@@ -206,8 +198,6 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 ![img](https://img-blog.csdnimg.cn/img_convert/09732e2e53c113d50051d11fd6a16e93.png)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
-
 #### 用户管理
 
 > 企业内部可以管理自己的员工和员工的基本信息，包括权限职责的授权等
@@ -215,8 +205,6 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 
 ![img](https://img-blog.csdnimg.cn/img_convert/12ce2cd14537d568a304d858c786e1bf.png)
-
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
 
 ### 工厂管理
 
@@ -228,31 +216,27 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 ![img](https://img-blog.csdnimg.cn/img_convert/cacdaacf4fe86d1fe97af9486f50cb2a.png)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
-
 #### 物料产品管理
 
 产品、物料、原料、包装、辅料可由使用者自己上传，同时可以设置成品半成品库房，包括上传产品照片和设置产品的过期时间等
 
 ![img](https://img-blog.csdnimg.cn/img_convert/014067bace36d196740385e6206e570b.png)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
+
 
 
 
 ![img](https://img-blog.csdnimg.cn/img_convert/edf5628051557f906573e12b3ca9de67.png)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
+
 
 #### 物料产品分类
 
 > 管理人员可以结合自身业务需求情况设置，成品，半成品等分类
 
 
-
 ![img](https://img-blog.csdnimg.cn/img_convert/5024d0e7d47ad0427ea6bce53a39994f.png)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
 
 #### 计量单位
 
@@ -262,13 +246,11 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 ![img](https://img-blog.csdnimg.cn/img_convert/15d1a836f7e1507aaf6298399363e397.png)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
 
 #### 客户管理
 
 ![2024-06-01T21:56:01-niil.png](https://img-blog.csdnimg.cn/img_convert/a291fc4a7e7f82def0d61ea143b39122.png)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
 
 #### 供应商管理
 
@@ -276,7 +258,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 ![img](https://img-blog.csdnimg.cn/img_convert/f15f864151a751ba5f9593934e2d4f19.png)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
+
 
 #### 车间管理
 
@@ -284,7 +266,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 ![img](https://img-blog.csdnimg.cn/img_convert/191bfab1f97dcbff42745f9379e5caa2.png)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
+
 
 #### 工作站管理
 
@@ -292,7 +274,6 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 ![img](https://img-blog.csdnimg.cn/img_convert/2ea19d9766b99fe1cd6a63a92796cab6.png)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
 
 ### 生产管理
 
@@ -302,7 +283,6 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 ![img](https://img-blog.csdnimg.cn/img_convert/245ca56372e60524507b8beb84e10723.png)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
 
 #### 工序设置
 
@@ -310,7 +290,6 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 ![img](https://img-blog.csdnimg.cn/img_convert/787f2312d604c8cc6f2ed424b1da8d3f.png)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
 
 #### 工艺流程
 
@@ -318,7 +297,6 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 ![img](https://img-blog.csdnimg.cn/img_convert/f2f6b2118d3ce669b41b291cd93cfdf7.png)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
 
 #### 生产排产
 
@@ -326,7 +304,6 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 ![img](https://img-blog.csdnimg.cn/img_convert/5f1edba4910d0eb733d1e6e2b010ddf5.png)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
 
 #### 生产报工
 
@@ -334,7 +311,6 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 ![img](https://img-blog.csdnimg.cn/img_convert/823f5f0799ac1fd885b83d429f127e4f.png)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
 
 ### 质量管理
 
@@ -344,7 +320,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 ![img](https://img-blog.csdnimg.cn/img_convert/863aeef70d64df1b3aab2c724697ec81.png)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
+
 
 #### 检测项管理
 
@@ -352,7 +328,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 ![img](https://img-blog.csdnimg.cn/img_convert/5de5e808bf7d53d0e7125957ed81099d.png)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
+
 
 #### 检测模板
 
@@ -360,7 +336,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 ![img](https://img-blog.csdnimg.cn/img_convert/4cfef248447f6a89ce220f4e441b6e6d.png)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
+
 
 #### 来料检测
 
@@ -368,7 +344,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 ![img](https://img-blog.csdnimg.cn/img_convert/7401aadfcadc1b45d14015b58b1fa747.png)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
+
 
 #### 过程检验
 
@@ -376,7 +352,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 ![img](https://img-blog.csdnimg.cn/img_convert/231c8fb1d1ad145f2b510806bc53714b.png)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
+
 
 #### 出货检验
 
@@ -384,7 +360,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 ![img](https://img-blog.csdnimg.cn/img_convert/b89b03ece32d588bf7ddd830b7913ca7.png)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
+
 
 ### 考勤管理
 
@@ -394,7 +370,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 ![img](https://img-blog.csdnimg.cn/img_convert/11fa5d2cf24a267b5d725d4b61729ee6.png)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
+
 
 #### 工作日历
 
@@ -402,7 +378,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 ![img](https://img-blog.csdnimg.cn/img_convert/d9ba86a990152a6c95e50158d2917817.png)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
+
 
 #### 打卡地址
 
@@ -410,13 +386,13 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 ![img](https://img-blog.csdnimg.cn/img_convert/2623e1a558df85e7c9bd2a723803af9f.png)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
+
 
 ####  考情统计
 
 ![img](https://img-blog.csdnimg.cn/img_convert/2aa2e58b0d01fce708ee033f6fc9da83.png)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
+
 
 
 
@@ -430,7 +406,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 ![img](https://img-blog.csdnimg.cn/img_convert/7e25e70f1fbb62ce51fa7a9d5d0bedcb.png)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
+
 
 ### 生产任务
 
@@ -440,7 +416,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 ![img](https://img-blog.csdnimg.cn/img_convert/5ab8485803f2b2e52ebe2d18162f8578.png)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
+
 
 ### 生产报工
 
@@ -450,7 +426,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 ![img](https://img-blog.csdnimg.cn/img_convert/a44d7370d6c318796f9ad803f224805b.png)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
+
 
 ### 切换工作台
 
@@ -460,7 +436,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 ![img](https://img-blog.csdnimg.cn/img_convert/4956358fce411d700d7122da5017f417.png)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
+
 
 
 
@@ -474,13 +450,13 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 ![img](https://img-blog.csdnimg.cn/img_convert/f748ec92a3dc82fa67f554132816edbe.png)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
+
 
 
 
 ![img](https://img-blog.csdnimg.cn/img_convert/e53361a219e2de4b8f8e0731ece860d9.png)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
+
 
 ### 产品信息
 
@@ -490,7 +466,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 ![img](https://img-blog.csdnimg.cn/img_convert/0f38be989f4551e759bfe499eb847556.png)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
+
 
 ### 产品出入库
 
@@ -500,7 +476,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 ![img](https://img-blog.csdnimg.cn/img_convert/b5c9cd09e7197499cece4d8f2fdedd5e.png)
 
-![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
+
 
 
 
