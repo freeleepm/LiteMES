@@ -482,7 +482,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 如果你有任何对 LiteMES 产品上的想法、意见或建议，或商务上的合作需求，请扫码添加 LiteMES 项目团队进一步沟通： 
 
-![输入图片说明](https://img-blog.csdnimg.cn/img_convert/ecbaf5bcb7e5c91376a788aa63934a89.png)
+![输入图片说明](https://leepm.oss-cn-beijing.aliyuncs.com/public-images/shawn_huangxing_qrcode.png)
 
 ##  给个鼓励
 
