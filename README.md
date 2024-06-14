@@ -12,13 +12,11 @@
 
 
 
-### 
-
 ## LiteMES 什么是 ？
 
 
 
-![img](https://img-blog.csdnimg.cn/img_convert/cce69a9c62da71d447a79776c322af5b.png)
+![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-13T16%3A18%3A26-zrnt.png)
 
 
 LiteMES，一款专为广大中小型企业量身打造的生产制造全链路执行系统，以其卓越的性价比和低投入成本，成为市场上备受青睐的选择。系统基于行业标准开源项目开发，融合了企业现实业务需求，旨在提供一套全面、高效且易于使用的生产管理工具，同时我们也支持物联网设备的接入，如监控摄像、火灾报警等
@@ -29,7 +27,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 
 
-![img](https://img-blog.csdnimg.cn/img_convert/0229403abc9a474abad24be37128121a.png)
+![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-13T16%3A21%3A20-aqpe.png)
 
 
 ## 我们的优势是什么？
@@ -175,7 +173,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 > 支持多租户的方式使用，标准的SaaS模式，高性价比，免维护。
 
 
-![img](https://img-blog.csdnimg.cn/img_convert/3aa22b6e9284d889d195c0014a4125a6.png)
+![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T21%3A25%3A56-tsya.png)
 
 
 ### 组织管理
@@ -186,7 +184,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 
 
-![2024-06-01T21:28:08-urir.png](https://img-blog.csdnimg.cn/img_convert/f357b9ff0491fe51f43c3838eee3d226.png)
+![2024-06-01T21:28:08-urir.png](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T21%3A28%3A08-urir.png)
 
 
 
@@ -196,7 +194,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 
 
-![img](https://img-blog.csdnimg.cn/img_convert/09732e2e53c113d50051d11fd6a16e93.png)
+![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T21%3A33%3A54-xojn.png)
 
 #### 用户管理
 
@@ -204,7 +202,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 
 
-![img](https://img-blog.csdnimg.cn/img_convert/12ce2cd14537d568a304d858c786e1bf.png)
+![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T21%3A35%3A10-kyrh.png)
 
 ### 工厂管理
 
@@ -214,19 +212,19 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 
 
-![img](https://img-blog.csdnimg.cn/img_convert/cacdaacf4fe86d1fe97af9486f50cb2a.png)
+![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T21%3A36%3A20-fmea.png)
 
 #### 物料产品管理
 
 产品、物料、原料、包装、辅料可由使用者自己上传，同时可以设置成品半成品库房，包括上传产品照片和设置产品的过期时间等
 
-![img](https://img-blog.csdnimg.cn/img_convert/014067bace36d196740385e6206e570b.png)
+![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T21%3A43%3A27-lyrf.png)
 
 
 
 
 
-![img](https://img-blog.csdnimg.cn/img_convert/edf5628051557f906573e12b3ca9de67.png)
+![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T21%3A47%3A00-lqlv.png)
 
 
 
@@ -235,7 +233,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 > 管理人员可以结合自身业务需求情况设置，成品，半成品等分类
 
 
-![img](https://img-blog.csdnimg.cn/img_convert/5024d0e7d47ad0427ea6bce53a39994f.png)
+![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T21%3A48%3A14-jpjt.png)
 
 
 #### 计量单位
