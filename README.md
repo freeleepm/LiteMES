@@ -44,11 +44,13 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 ## 适用业务场景
 
+#### 行业 
+
 - 电子行业
 - 食品加工行业
 - 其它中小微型生产与制造行业企业
 
-
+#### 功能
 
 - 无纸化生产过程控制
 
@@ -242,19 +244,19 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 
 
-![img](https://img-blog.csdnimg.cn/img_convert/15d1a836f7e1507aaf6298399363e397.png)
+![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T21%3A54%3A44-occf.png)
 
 
 #### 客户管理
 
-![2024-06-01T21:56:01-niil.png](https://img-blog.csdnimg.cn/img_convert/a291fc4a7e7f82def0d61ea143b39122.png)
+![2024-06-01T21:56:01-niil.png](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T21%3A56%3A01-niil.png)
 
 
 #### 供应商管理
 
 
 
-![img](https://img-blog.csdnimg.cn/img_convert/f15f864151a751ba5f9593934e2d4f19.png)
+![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T22%3A03%3A54-ypqn.png)
 
 
 
@@ -262,7 +264,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 
 
-![img](https://img-blog.csdnimg.cn/img_convert/191bfab1f97dcbff42745f9379e5caa2.png)
+![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T22%3A04%3A33-ocnn.png)
 
 
 
@@ -270,7 +272,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 
 
-![img](https://img-blog.csdnimg.cn/img_convert/2ea19d9766b99fe1cd6a63a92796cab6.png)
+![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T22%3A05%3A13-omls.png)
 
 
 ### 生产管理
@@ -279,35 +281,35 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 
 
-![img](https://img-blog.csdnimg.cn/img_convert/245ca56372e60524507b8beb84e10723.png)
+![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T22%3A05%3A53-qvrj.png)
 
 
 #### 工序设置
 
 
 
-![img](https://img-blog.csdnimg.cn/img_convert/787f2312d604c8cc6f2ed424b1da8d3f.png)
+![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A42%3A32-epki.png)
 
 
 #### 工艺流程
 
 
 
-![img](https://img-blog.csdnimg.cn/img_convert/f2f6b2118d3ce669b41b291cd93cfdf7.png)
+![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A43%3A05-vcnc.png)
 
 
 #### 生产排产
 
 
 
-![img](https://img-blog.csdnimg.cn/img_convert/5f1edba4910d0eb733d1e6e2b010ddf5.png)
+![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A43%3A44-akjo.png)
 
 
 #### 生产报工
 
 
 
-![img](https://img-blog.csdnimg.cn/img_convert/823f5f0799ac1fd885b83d429f127e4f.png)
+![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A45%3A26-rxeo.png)
 
 
 ### 质量管理
@@ -316,7 +318,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 
 
-![img](https://img-blog.csdnimg.cn/img_convert/863aeef70d64df1b3aab2c724697ec81.png)
+![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A46%3A22-nniy.png)
 
 
 
@@ -324,7 +326,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 
 
-![img](https://img-blog.csdnimg.cn/img_convert/5de5e808bf7d53d0e7125957ed81099d.png)
+![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A53%3A28-whku.png)
 
 
 
@@ -332,7 +334,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 
 
-![img](https://img-blog.csdnimg.cn/img_convert/4cfef248447f6a89ce220f4e441b6e6d.png)
+![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A53%3A59-rboo.png)
 
 
 
@@ -340,7 +342,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 
 
-![img](https://img-blog.csdnimg.cn/img_convert/7401aadfcadc1b45d14015b58b1fa747.png)
+![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A54%3A28-dqqk.png)
 
 
 
@@ -348,7 +350,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 
 
-![img](https://img-blog.csdnimg.cn/img_convert/231c8fb1d1ad145f2b510806bc53714b.png)
+![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A54%3A55-hvmn.png)
 
 
 
@@ -356,7 +358,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 
 
-![img](https://img-blog.csdnimg.cn/img_convert/b89b03ece32d588bf7ddd830b7913ca7.png)
+![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A55%3A26-kqlg.png)
 
 
 
@@ -366,7 +368,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 
 
-![img](https://img-blog.csdnimg.cn/img_convert/11fa5d2cf24a267b5d725d4b61729ee6.png)
+![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A56%3A04-ioww.png)
 
 
 
@@ -374,21 +376,19 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 
 
-![img](https://img-blog.csdnimg.cn/img_convert/d9ba86a990152a6c95e50158d2917817.png)
+![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A56%3A29-mzmf.png)
 
 
 
 #### 打卡地址
 
-#### 
-
-![img](https://img-blog.csdnimg.cn/img_convert/2623e1a558df85e7c9bd2a723803af9f.png)
+![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A56%3A57-nvbo.png)
 
 
 
 ####  考情统计
 
-![img](https://img-blog.csdnimg.cn/img_convert/2aa2e58b0d01fce708ee033f6fc9da83.png)
+![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A57%3A23-yzby.png)
 
 
 
@@ -402,7 +402,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 
 
-![img](https://img-blog.csdnimg.cn/img_convert/7e25e70f1fbb62ce51fa7a9d5d0bedcb.png)
+![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-13T16%3A36%3A20-ziip.png)
 
 
 
@@ -412,7 +412,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 
 
-![img](https://img-blog.csdnimg.cn/img_convert/5ab8485803f2b2e52ebe2d18162f8578.png)
+![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-13T16%3A39%3A02-ydjp.png)
 
 
 
@@ -422,7 +422,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 
 
-![img](https://img-blog.csdnimg.cn/img_convert/a44d7370d6c318796f9ad803f224805b.png)
+![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-13T16%3A40%3A45-fmiq.png)
 
 
 
@@ -432,7 +432,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 
 
-![img](https://img-blog.csdnimg.cn/img_convert/4956358fce411d700d7122da5017f417.png)
+![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-13T16%3A44%3A09-jepv.png)
 
 
 
@@ -446,13 +446,11 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 
 
-![img](https://img-blog.csdnimg.cn/img_convert/f748ec92a3dc82fa67f554132816edbe.png)
+![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-14T14%3A52%3A31-zlrh.png)
 
 
 
-
-
-![img](https://img-blog.csdnimg.cn/img_convert/e53361a219e2de4b8f8e0731ece860d9.png)
+![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-14T14%3A56%3A29-mrid.png)
 
 
 
@@ -462,7 +460,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 
 
-![img](https://img-blog.csdnimg.cn/img_convert/0f38be989f4551e759bfe499eb847556.png)
+![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-14T14%3A55%3A16-yjoc.png)
 
 
 
@@ -472,7 +470,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 
 
 
-![img](https://img-blog.csdnimg.cn/img_convert/b5c9cd09e7197499cece4d8f2fdedd5e.png)
+![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-14T14%3A56%3A36-eamg.png)
 
 
 
