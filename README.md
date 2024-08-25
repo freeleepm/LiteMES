@@ -1,38 +1,29 @@
-# LiteMES（免费开源小型生产制造系统）
+# 免费开源MES系统（LiteMES）
 
-当前最新版本：v1.5.0 (发布时间：2024-06-14)
+当前最新版本：v1.5.0 (发布时间：2024-08-25)
 
-
-
-[![输入图片说明](https://img.shields.io/static/v1?label=licents&message=Apache%20License%202.0&color=green)](https://gitee.com/leepm/mini-contract/blob/master/LICENSE)
-
-[![输入图片说明](https://img.shields.io/static/v1?label=Author&message=shawn&color=blue)](https://www.yi-types.com)
-
-[![输入图片说明](https://img.shields.io/static/v1?label=version&message=1.5.0&color=green)](https://www.yi-types.com)
+[![输入图片说明](https://img.shields.io/static/v1?label=licents&message=Apache%20License%202.0&color=green [README.md](README.md) )](https://gitee.com/leepm/mini-contract/blob/master/LICENSE)[![输入图片说明](https://img.shields.io/static/v1?label=Author&message=shawn&color=blue)](https://www.yi-types.com)[![输入图片说明](https://img.shields.io/static/v1?label=version&message=1.5.0&color=green)](https://www.yi-types.com)
 
 
 
 ## LiteMES 什么是 ？
 
-
-
 ![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-13T16%3A18%3A26-zrnt.png)
 
 
-LiteMES，一款专为广大中小型企业量身打造的生产制造全链路执行系统，以其卓越的性价比和低投入成本，成为市场上备受青睐的选择。系统基于行业标准开源项目开发，融合了企业现实业务需求，旨在提供一套全面、高效且易于使用的生产管理工具，同时我们也支持物联网设备的接入，如监控摄像、火灾报警等
+LiteMES，一款专为大中微小型企业量身打造的生产制造全链路执行MES系统，系统基于行业标准开源项目进二研发，融合了企业真实业务场景，旨在提供一套全面、高效且易于使用的生产管理工具，同时我们也支持物联网设备的接入，如监控摄像、火灾报警等
 
 
 
-LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执行、质量管理、物联网IoT管理、看板报表管理——均经过精心设计，以实现功能最大化与操作简化的完美平衡。这些模块的协同工作，不仅优化了生产流程，还大幅提升了企业的运营效率和产品质量。
+LiteMES 的六大核心功能模块，计划排程、仓储管理、制造执行、质量管理、物联网IoT管理、看板报表管理
 
 
 
 ![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-13T16%3A21%3A20-aqpe.png)
 
 
+
 ## 我们的优势是什么？
-
-
 
 对于资源有限的小型企业而言，LiteMES 的**低成本投入和高性价比**是其最大的福利。系统采用模块化设计，企业可以根据自身需求和预算灵活选择所需的模块，避免了不必要的功能堆砌和成本浪费。此外，LiteMES 的轻量化设计减少了系统对硬件的高要求，进一步降低了企业的IT投资成本。
 
@@ -99,16 +90,14 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 ###   **后端**
 
 - 基础框架：Spring Boot
-
 - 持久层框架：Mybatis
-
 - 安全框架：Apache Shiro 1.10.0，Jwt 3.11.0
 - 其他：fastjson，poi，Swagger-ui，quartz, lombok（简化代码）等。
 
 ```
 项目结构
 
-├─ ktg-admim            系统管理模块
+├─ ktg-admin            系统管理模块
 ├─ ktg-common           公共模块
 ├─ kgt-flowable         工作流模块
 ├─ ktg-framework        框架核心模块
@@ -123,7 +112,7 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 #### 前端框架
 
 | 说明       | 框架       | 说明     | 框架 |
-| ---------- | ---------- | -------- | ---- |
+| ----------| ---------- | -------- | ---- |
 | 基础框架   | element-ui | JS版本   | ES6  |
 | 基础JS框架 | Vue.js     | 状态管理 | Vuex |
 | css预处理  | scss       |          |      |
@@ -143,29 +132,19 @@ LiteMES 的六大核心功能模块——计划排程、仓储管理、制造执
 ├─public	                          // html基础配置
 └─src						                    // 组件区域
   ├─api						                  // 接口封装
-  │
   ├─assetsn						              // 静态资源
-  │
   ├─components					            // 公共组件
-  │
   ├─config				                  // 配置
-  │
   ├─directive					              // 自定义指令
-  │
   ├─layout					                // 基础主题组件
-  │
   ├─plugins						              // 基础方法及缓存
-  │
   ├─router						              // 路由配置
-  │
   ├─store    					              // vuex 管理store
-  │
   ├─styles							            // 公共样式
-  │
   ├─utils						                // 工具
-  │
   └─views							              // 页面组件
 ```
+
 
 
 ## 项目效果
