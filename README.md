@@ -2,7 +2,7 @@
 
 当前最新版本：v1.5.0 (发布时间：2024-08-25)
 
-[![输入图片说明](https://img.shields.io/static/v1?label=licents&message=Apache%20License%202.0&color=green [README.md](README.md) )](https://gitee.com/leepm/mini-contract/blob/master/LICENSE)[![输入图片说明](https://img.shields.io/static/v1?label=Author&message=shawn&color=blue)](https://www.yi-types.com)[![输入图片说明](https://img.shields.io/static/v1?label=version&message=1.5.0&color=green)](https://www.yi-types.com)
+[![输入图片说明](https://img.shields.io/static/v1?label=licents&message=Apache%20License%202.0&color=green )](https://gitee.com/leepm/mini-contract/blob/master/LICENSE)[![输入图片说明](https://img.shields.io/static/v1?label=Author&message=shawn&color=blue)](https://gitee.com/leepm/LiteMES)[![输入图片说明](https://img.shields.io/static/v1?label=version&message=1.5.0&color=green)](https://gitee.com/leepm/LiteMES)
 
 
 
