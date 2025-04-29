@@ -1,15 +1,15 @@
-# Free and open-source MES system（LiteMES）
-Current latest version: v1.5.0 (Release date: 2024-08-25)
+# LiteMES(Free and open-source MES system)
+Current latest version: v1.5.5 (Release date: 2025-04-29)
 
 
 
-[![输入图片说明](https://img.shields.io/static/v1?label=licents&message=Apache%20License%202.0&color=green)](https://gitee.com/leepm/mini-contract/blob/master/LICENSE) [![输入图片说明](https://img.shields.io/static/v1?label=Author&message=shawn&color=blue)](https://gitee.com/leepm/LiteMES)[![输入图片说明](https://img.shields.io/static/v1?label=version&message=1.5.0&color=green)](https://gitee.com/leepm/LiteMES)
+[![输入图片说明](https://img.shields.io/static/v1?label=licents&message=Apache%20License%202.0&color=green)](https://gitee.com/leepm/mini-contract/blob/master/LICENSE) [![输入图片说明](https://img.shields.io/static/v1?label=Author&message=shawn&color=blue)](https://gitee.com/leepm/LiteMES)[![输入图片说明](https://img.shields.io/static/v1?label=version&message=1.5.5&color=green)](https://gitee.com/leepm/LiteMES)
 
 
 
 ## What is LiteMES?
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-13T16%3A18%3A26-zrnt.png)
+![img](.images/2024-06-13T16_18_26-zrnt.png)
 
 LiteMES is a production manufacturing execution MES system tailored for enterprises of all sizes, from large to small. The system is developed based on industry-standard open-source projects and integrated with real business scenarios, aiming to provide a comprehensive, efficient, and easy-to-use production management tool. Additionally, LiteMES supports the integration of IoT devices, such as surveillance cameras and fire alarms.
 
@@ -18,7 +18,7 @@ LiteMES is a production manufacturing execution MES system tailored for enterpri
  The six core modules of LiteMES are: Scheduling, Warehouse Management, Manufacturing Execution, Quality Management, IoT Management, and Dashboard Reporting.
 
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-13T16%3A21%3A20-aqpe.png)
+![img](.images/2024-06-13T16_21_20-aqpe.png)
 
 
 
@@ -134,7 +134,7 @@ Project Structure
 ## MES Backend Management (Business Management)
 > Supports multi-tenant use in a standard SaaS model, offering high cost-performance and maintenance-free.
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T21%3A25%3A56-tsya.png)
+![img](.images/2024-06-01T21_25_56-tsya.png)
 
 ### Organization Management
 #### Department Management
@@ -143,111 +143,111 @@ Project Structure
 #### Role Management
 > Functional permissions and business responsibilities can be freely defined and customized by management personnel, making management more convenient.
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T21%3A33%3A54-xojn.png)
+![img](.images/2024-06-01T21_33_54-xojn.png)
 
 #### User Management
 > Enterprises can manage their own employees and basic information of employees, including the authorization of permissions and responsibilities.
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T21%3A35%3A10-kyrh.png)
+![img](.images/2024-06-01T21_35_10-kyrh.png)
 
 ### Factory Management
 #### Coding Rules
 > To meet the needs of different business scenarios, we have specially designed a set of user and user-defined numbering generation rules.
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T21%3A36%3A20-fmea.png)
+![img](.images/2024-06-01T21_36_20-fmea.png)
 
 #### Material and Product Management
 > Products, materials, raw materials, packaging, and auxiliary materials can be uploaded by users themselves, and it is also possible to set up finished and semi-finished product warehouses, including uploading product photos and setting product expiration dates, etc.
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T21%3A43%3A27-lyrf.png)
+![img](.images/2024-06-01T21_43_27-lyrf.png)
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T21%3A47%3A00-lqlv.png)
+![img](.images/2024-06-01T21_47_00-lqlv.png)
 
 #### Material and Product Classification
 Management personnel can set classifications such as finished products, semi-finished products, etc., according to their own business needs.
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T21%3A48%3A14-jpjt.png)
+![img](.images/2024-06-01T21_48_14-jpjt.png)
 
 #### Measurement Units
 > At the same time, we also support the conversion of multiple units, primary units, secondary units, and automatic calculation between primary and secondary units.
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T21%3A54%3A44-occf.png)
+![img](.images/2024-06-01T21_54_44-occf.png)
 
 #### Customer Management
-![2024-06-01T21:56:01-niil.png](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T21%3A56%3A01-niil.png)
+![2024-06-01T21:56:01-niil.png](.images/2024-06-01T21_56_01-niil.png)
 
 #### Supplier Management
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T22%3A03%3A54-ypqn.png)
+![img](.images/2024-06-01T22_03_54-ypqn.png)
 
 #### Workshop Management
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T22%3A04%3A33-ocnn.png)
+![img](.images/2024-06-01T22_04_33-ocnn.png)
 
 #### Workstation Management
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T22%3A05%3A13-omls.png)
+![img](.images/2024-06-01T22_05_13-omls.png)
 
 ### Production Management
 
 #### Production Planning Management
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T22%3A05%3A53-qvrj.png)
+![img](.images/2024-06-01T22_05_53-qvrj.png)
 
 #### Process Setup
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A42%3A32-epki.png)
+![img](.images/2024-06-02T17_42_32-epki.png)
 
 #### Process Flow
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A43%3A05-vcnc.png)
+![img](.images/2024-06-02T17_43_05-vcnc.png)
 
 #### Production Scheduling
 
-![Production Scheduling Image](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A43%3A44-akjo.png)
+![Production Scheduling Image](.images/2024-06-02T17_43_44-akjo.png)
 
 #### Work Reporting
 
-![Work Reporting Image](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A45%3A26-rxeo.png)
+![Work Reporting Image](.images/2024-06-02T17_45_26-rxeo.png)
 
 ### Quality Management
 
 #### Common Defects
 
-![Common Defects Image](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A46%3A22-nniy.png)
+![Common Defects Image](.images/2024-06-02T17_46_22-nniy.png)
 
 #### Inspection Item Management
 
-![Inspection Item Management Image](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A53%3A28-whku.png)
+![Inspection Item Management Image](.images/2024-06-02T17_53_28-whku.png)
 
 #### Inspection Template
 
-![Inspection Template Image](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A53%3A59-rboo.png)
+![Inspection Template Image](.images/2024-06-02T17_53_59-rboo.png)
 
 #### Incoming Material Inspection
 
-![Incoming Material Inspection Image](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A54%3A28-dqqk.png)
+![Incoming Material Inspection Image](.images/2024-06-02T17_54_28-dqqk.png)
 
 #### In-process Inspection
 
-![In-process Inspection Image](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A54%3A55-hvmn.png)
+![In-process Inspection Image](.images/2024-06-02T17_54_55-hvmn.png)
 
 #### Outgoing Inspection
 
-![Outgoing Inspection Image](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A55%3A26-kqlg.png)
+![Outgoing Inspection Image](.images/2024-06-02T17_55_26-kqlg.png)
 
 ### Attendance Management
 
 #### Attendance Records
 
-![Attendance Records Image](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A56%3A04-ioww.png)
+![Attendance Records Image](.images/2024-06-02T17_56_04-ioww.png)
 
 #### Work Calendar
 
-![Work Calendar Image](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A56%3A29-mzmf.png)
+![Work Calendar Image](.images/2024-06-02T17_56_29-mzmf.png)
 
 #### Clock-in Location
 
-![Clock-in Location Image](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A56%3A57-nvbo.png)
+![Clock-in Location Image](.images/2024-06-02T17_56_57-nvbo.png)
 
 #### Attendance Statistics
 
-![Attendance Statistics Image](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A57%3A23-yzby.png)
+![Attendance Statistics Image](.images/2024-06-02T17_57_23-yzby.png)
 
 
 ## MES Production Side (Work Reporting)
@@ -256,25 +256,25 @@ Management personnel can set classifications such as finished products, semi-fin
 
 > After logging in, production personnel select the appropriate workstation based on their process or link.
 
-![Workbench Image](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-13T16%3A36%3A20-ziip.png)
+![Workbench Image](.images/2024-06-13T16_36_20-ziip.png)
 
 ### Production Tasks
 
 > Production personnel can view all pending or unfinished work tasks through the workbench and can report production data.
 
-![Production Tasks Image](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-13T16%3A39%3A02-ydjp.png)
+![Production Tasks Image](.images/2024-06-13T16_39_02-ydjp.png)
 
 ### Production Reporting
 
 > Production personnel can report tasks on the production terminal, and after reporting, production managers can promptly view the corresponding data on the dashboard, allowing them to grasp the production progress in real time.
 
-![Production Reporting Image](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-13T16%3A40%3A45-fmiq.png)
+![Production Reporting Image](.images/2024-06-13T16_40_45-fmiq.png)
 
 ### Switch Workbench
 
 > The production terminal supports reporting work for multiple processes at a single post, making it more flexible and convenient.
 
-![Switch Workbench Image](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-13T16%3A44%3A09-jepv.png)
+![Switch Workbench Image](.images/2024-06-13T16_44_09-jepv.png)
 
 
 ## MES Mobile Side (Inspection, Warehouse Operations, Inventory Counting, After-Sales Service)
@@ -283,27 +283,27 @@ Management personnel can set classifications such as finished products, semi-fin
 
 > Users can use the mini-program to report product issues and apply for after-sales service, and also view the current status of the product's after-sales process in real time.
 
-![After-Sales Work Orders Image](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-14T14%3A52%3A31-zlrh.png)
+![After-Sales Work Orders Image](.images/2024-06-14T14_52_31-zlrh.png)
 
-![After-Sales Work Orders Image](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-14T14%3A56%3A29-mrid.png)
+![After-Sales Work Orders Image](.images/2024-06-14T14_56_29-mrid.png)
 
 ### Product Information
 
 > Users can also query product information through the product QR code, viewing details such as production date, manufacturing process, quality control process, and warranty status.
 
-![Product Information Image](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-14T14%3A55%3A16-yjoc.png)
+![Product Information Image](.images/2024-06-14T14_55_16-yjoc.png)
 
 ### Product Warehouse Operations
 
 > Management users can conveniently perform operations such as product warehousing, dispatching, and material issuance through the mobile side.
 
-![Product Warehouse Operations Image](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-14T14%3A56%3A36-eamg.png)
+![Product Warehouse Operations Image](.images/2024-06-14T14_56_36-eamg.png)
 
 In summary, LiteMES not only enhances enterprise competitiveness with its efficient production management capabilities but also, with its high cost-performance ratio and low investment cost, has become an ideal choice for small enterprises to realize the dream of intelligent manufacturing. Through LiteMES, small enterprises can enjoy advanced production management technology at minimal cost, achieving optimization of the production process and business growth.
 
 If you have any ideas, opinions, or suggestions about the LiteMES product, or if you have any business cooperation needs, please scan the QR code to add the LiteMES project team for further communication:
 
-![QR Code for Contact](https://leepm.oss-cn-beijing.aliyuncs.com/public-images/shawn_huangxing_qrcode.png)
+![QR Code for Contact](.images/shawn_huangxing_qrcode.png)
 
 ## Give Some Encouragement
 

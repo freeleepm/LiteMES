@@ -8,7 +8,7 @@
 
 ## LiteMES 什么是 ？
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-13T16%3A18%3A26-zrnt.png)
+![img](.images/2024-06-13T16_18_26-zrnt.png)
 
 
 LiteMES，一款专为大中微小型企业量身打造的生产制造全链路执行MES系统，系统基于行业标准开源项目进二研发，融合了企业真实业务场景，旨在提供一套全面、高效且易于使用的生产管理工具，同时我们也支持物联网设备的接入，如监控摄像、火灾报警等
@@ -18,8 +18,7 @@ LiteMES，一款专为大中微小型企业量身打造的生产制造全链路�
 LiteMES 的六大核心功能模块，计划排程、仓储管理、制造执行、质量管理、物联网IoT管理、看板报表管理
 
 
-
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-13T16%3A21%3A20-aqpe.png)
+![img](.images/2024-06-13T16_21_20-aqpe.png)
 
 
 
@@ -154,7 +153,7 @@ LiteMES 的六大核心功能模块，计划排程、仓储管理、制造执行
 > 支持多租户的方式使用，标准的SaaS模式，高性价比，免维护。
 
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T21%3A25%3A56-tsya.png)
+![img](.images/2024-06-01T21_25_56-tsya.png)
 
 
 ### 组织管理
@@ -165,7 +164,7 @@ LiteMES 的六大核心功能模块，计划排程、仓储管理、制造执行
 
 
 
-![2024-06-01T21:28:08-urir.png](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T21%3A28%3A08-urir.png)
+![2024-06-01T21:28:08-urir.png](.images/2024-06-01T21_28_08-urir.png)
 
 
 
@@ -175,7 +174,7 @@ LiteMES 的六大核心功能模块，计划排程、仓储管理、制造执行
 
 
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T21%3A33%3A54-xojn.png)
+![img](.images/2024-06-01T21_33_54-xojn.png)
 
 #### 用户管理
 
@@ -183,7 +182,7 @@ LiteMES 的六大核心功能模块，计划排程、仓储管理、制造执行
 
 
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T21%3A35%3A10-kyrh.png)
+![img](.images/2024-06-01T21_35_10-kyrh.png)
 
 ### 工厂管理
 
@@ -193,19 +192,19 @@ LiteMES 的六大核心功能模块，计划排程、仓储管理、制造执行
 
 
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T21%3A36%3A20-fmea.png)
+![img](.images/2024-06-01T21_36_20-fmea.png)
 
 #### 物料产品管理
 
 产品、物料、原料、包装、辅料可由使用者自己上传，同时可以设置成品半成品库房，包括上传产品照片和设置产品的过期时间等
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T21%3A43%3A27-lyrf.png)
+![img](.images/2024-06-01T21_43_27-lyrf.png)
 
 
 
 
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T21%3A47%3A00-lqlv.png)
+![img](.images/2024-06-01T21_47_00-lqlv.png)
 
 
 
@@ -214,7 +213,7 @@ LiteMES 的六大核心功能模块，计划排程、仓储管理、制造执行
 > 管理人员可以结合自身业务需求情况设置，成品，半成品等分类
 
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T21%3A48%3A14-jpjt.png)
+![img](.images/2024-06-01T21_48_14-jpjt.png)
 
 
 #### 计量单位
@@ -223,19 +222,19 @@ LiteMES 的六大核心功能模块，计划排程、仓储管理、制造执行
 
 
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T21%3A54%3A44-occf.png)
+![img](.images/2024-06-01T21_54_44-occf.png)
 
 
 #### 客户管理
 
-![2024-06-01T21:56:01-niil.png](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T21%3A56%3A01-niil.png)
+![2024-06-01T21:56:01-niil.png](.images/2024-06-01T21_56_01-niil.png)
 
 
 #### 供应商管理
 
 
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T22%3A03%3A54-ypqn.png)
+![img](.images/2024-06-01T22_03_54-ypqn.png)
 
 
 
@@ -243,7 +242,7 @@ LiteMES 的六大核心功能模块，计划排程、仓储管理、制造执行
 
 
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T22%3A04%3A33-ocnn.png)
+![img](.images/2024-06-01T22_04_33-ocnn.png)
 
 
 
@@ -251,7 +250,7 @@ LiteMES 的六大核心功能模块，计划排程、仓储管理、制造执行
 
 
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T22%3A05%3A13-omls.png)
+![img](.images/2024-06-01T22_05_13-omls.png)
 
 
 ### 生产管理
@@ -260,35 +259,35 @@ LiteMES 的六大核心功能模块，计划排程、仓储管理、制造执行
 
 
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-01T22%3A05%3A53-qvrj.png)
+![img](.images/2024-06-01T22_05_53-qvrj.png)
 
 
 #### 工序设置
 
 
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A42%3A32-epki.png)
+![img](.images/2024-06-02T17_42_32-epki.png)
 
 
 #### 工艺流程
 
 
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A43%3A05-vcnc.png)
+![img](.images/2024-06-02T17_43_05-vcnc.png)
 
 
 #### 生产排产
 
 
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A43%3A44-akjo.png)
+![img](.images/2024-06-02T17_43_44-akjo.png)
 
 
 #### 生产报工
 
 
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A45%3A26-rxeo.png)
+![img](.images/2024-06-02T17_45_26-rxeo.png)
 
 
 ### 质量管理
@@ -297,7 +296,7 @@ LiteMES 的六大核心功能模块，计划排程、仓储管理、制造执行
 
 
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A46%3A22-nniy.png)
+![img](.images/2024-06-02T17_46_22-nniy.png)
 
 
 
@@ -305,7 +304,7 @@ LiteMES 的六大核心功能模块，计划排程、仓储管理、制造执行
 
 
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A53%3A28-whku.png)
+![img](.images/2024-06-02T17_53_28-whku.png)
 
 
 
@@ -313,7 +312,7 @@ LiteMES 的六大核心功能模块，计划排程、仓储管理、制造执行
 
 
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A53%3A59-rboo.png)
+![img](.images/2024-06-02T17_53_59-rboo.png)
 
 
 
@@ -321,7 +320,7 @@ LiteMES 的六大核心功能模块，计划排程、仓储管理、制造执行
 
 
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A54%3A28-dqqk.png)
+![img](.images/2024-06-02T17_54_28-dqqk.png)
 
 
 
@@ -329,7 +328,7 @@ LiteMES 的六大核心功能模块，计划排程、仓储管理、制造执行
 
 
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A54%3A55-hvmn.png)
+![img](.images/2024-06-02T17_54_55-hvmn.png)
 
 
 
@@ -337,7 +336,7 @@ LiteMES 的六大核心功能模块，计划排程、仓储管理、制造执行
 
 
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A55%3A26-kqlg.png)
+![img](.images/2024-06-02T17_55_26-kqlg.png)
 
 
 
@@ -347,7 +346,7 @@ LiteMES 的六大核心功能模块，计划排程、仓储管理、制造执行
 
 
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A56%3A04-ioww.png)
+![img](.images/2024-06-02T17_56_04-ioww.png)
 
 
 
@@ -355,19 +354,19 @@ LiteMES 的六大核心功能模块，计划排程、仓储管理、制造执行
 
 
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A56%3A29-mzmf.png)
+![img](.images/2024-06-02T17_56_29-mzmf.png)
 
 
 
 #### 打卡地址
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A56%3A57-nvbo.png)
+![img](.images/2024-06-02T17_56_57-nvbo.png)
 
 
 
 ####  考情统计
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-02T17%3A57%3A23-yzby.png)
+![img](.images/2024-06-02T17_57_23-yzby.png)
 
 
 
@@ -381,7 +380,7 @@ LiteMES 的六大核心功能模块，计划排程、仓储管理、制造执行
 
 
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-13T16%3A36%3A20-ziip.png)
+![img](.images/2024-06-13T16_36_20-ziip.png)
 
 
 
@@ -391,7 +390,7 @@ LiteMES 的六大核心功能模块，计划排程、仓储管理、制造执行
 
 
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-13T16%3A39%3A02-ydjp.png)
+![img](.images/2024-06-13T16_39_02-ydjp.png)
 
 
 
@@ -401,7 +400,7 @@ LiteMES 的六大核心功能模块，计划排程、仓储管理、制造执行
 
 
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-13T16%3A40%3A45-fmiq.png)
+![img](.images/2024-06-13T16_40_45-fmiq.png)
 
 
 
@@ -411,7 +410,7 @@ LiteMES 的六大核心功能模块，计划排程、仓储管理、制造执行
 
 
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-13T16%3A44%3A09-jepv.png)
+![img](.images/2024-06-13T16_44_09-jepv.png)
 
 
 
@@ -425,11 +424,11 @@ LiteMES 的六大核心功能模块，计划排程、仓储管理、制造执行
 
 
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-14T14%3A52%3A31-zlrh.png)
+![img](.images/2024-06-14T14_52_31-zlrh.png)
 
 
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-14T14%3A56%3A29-mrid.png)
+![img](.images/2024-06-14T14_56_29-mrid.png)
 
 
 
@@ -439,7 +438,7 @@ LiteMES 的六大核心功能模块，计划排程、仓储管理、制造执行
 
 
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-14T14%3A55%3A16-yjoc.png)
+![img](.images/2024-06-14T14_55_16-yjoc.png)
 
 
 
@@ -449,9 +448,7 @@ LiteMES 的六大核心功能模块，计划排程、仓储管理、制造执行
 
 
 
-![img](https://leepm.oss-cn-beijing.aliyuncs.com/leepm_images/halo/2024-06-14T14%3A56%3A36-eamg.png)
-
-
+![img](.images/2024-06-14T14_56_36-eamg.png)
 
 
 
@@ -461,7 +458,7 @@ LiteMES 的六大核心功能模块，计划排程、仓储管理、制造执行
 
 如果你有任何对 LiteMES 产品上的想法、意见或建议，或商务上的合作需求，请扫码添加 LiteMES 项目团队进一步沟通： 
 
-![输入图片说明](https://leepm.oss-cn-beijing.aliyuncs.com/public-images/shawn_huangxing_qrcode.png)
+![输入图片说明](.images/shawn_huangxing_qrcode.png)
 
 ##  给个鼓励
 
