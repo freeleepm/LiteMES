@@ -98,7 +98,7 @@ LiteMES 的六大核心功能模块，计划排程、仓储管理、制造执行
 
 ├─ ktg-admin            系统管理模块
 ├─ ktg-common           公共模块
-├─ kgt-flowable         工作流模块
+├─ ktg-flowable         工作流模块
 ├─ ktg-framework        框架核心模块
 ├─ ktg-generator        代码生成模块
 ├─ ktg-mes              系统核心模块
